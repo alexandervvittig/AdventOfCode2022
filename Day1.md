@@ -2292,7 +2292,7 @@ Select-Object -Last 1 |
 Select-Object -ExpandProperty Calories
 ```
 
-## PaArt 2
+## Part 2
 ``` PowerShell
 $data =
 @"
