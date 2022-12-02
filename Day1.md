@@ -1,4 +1,4 @@
-# DAY 1
+# Day01
 
 ## Part 1
 ``` PowerShell
