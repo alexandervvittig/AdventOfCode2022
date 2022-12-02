@@ -1,4 +1,4 @@
-# Day 2
+# Day02
 ## Part 1
 ``` Powershell
 $puzzleInput =
